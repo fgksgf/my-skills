@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Forge"
+  short_description: "Forge, refine, and audit skills"
+  default_prompt: "Help me turn this workflow into a well-scoped skill, applying the hard rules from the best-practices reference."
