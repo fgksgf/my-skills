@@ -95,7 +95,7 @@ Every draft SKILL.md is audited against these before shipping:
 
 ### Credits
 
-- Workflow and patterns inspired by Anthropic's [`claude-skill-creator`](https://github.com/anthropics/skills) and OpenAI's `codex-skill-creator`.
+- Workflow and patterns inspired by Anthropic's [`claude-skill-creator`](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/skill-creator/skills/skill-creator) and OpenAI's [`codex-skill-creator`](https://github.com/openai/skills/tree/main/skills/.system/skill-creator).
 - Hard rules distilled from the [agentskills.io best-practices article](https://agentskills.io/skill-creation/best-practices).
 - `init_skill.py`, `quick_validate.py`, and `generate_openai_yaml.py` are adapted from OpenAI's `codex-skill-creator`. Upstream has no explicit license at the time of writing; scripts are included in good faith with attribution headers.
 
@@ -194,7 +194,7 @@ skill-forge/
 
 ### 致谢
 
-- 工作流与模式灵感来自 Anthropic 的 [`claude-skill-creator`](https://github.com/anthropics/skills) 和 OpenAI 的 `codex-skill-creator`。
+- 工作流与模式灵感来自 Anthropic 的 [`claude-skill-creator`](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/skill-creator/skills/skill-creator) 和 OpenAI 的 [`codex-skill-creator`](https://github.com/openai/skills/tree/main/skills/.system/skill-creator)。
 - 硬约束提炼自 [agentskills.io best-practices 文章](https://agentskills.io/skill-creation/best-practices)。
 - `init_skill.py`、`quick_validate.py`、`generate_openai_yaml.py` 改编自 OpenAI 的 `codex-skill-creator`。原仓库在撰写本文时没有明确的 license, 这些脚本带 attribution header 以示出处。
 
